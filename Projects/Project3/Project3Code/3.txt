@@ -1,0 +1,11 @@
+Morris Love
+46, Male, Chest Pain
+1
+Cardiologist 
+5ms
+153 Tachycardia
+150/45 Hypertension
+26 Tachypnea
+96.1 No
+85.0% Low
+Warfarin, Aspirin, Amlodipine, Diltiazem

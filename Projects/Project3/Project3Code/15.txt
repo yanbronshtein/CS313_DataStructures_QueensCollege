@@ -1,0 +1,11 @@
+Arthur King
+12, Male, Headache
+3
+N/A
+10ms
+77 Normal
+131/80 Normal
+20 Normal
+104.1 Yes
+100.0% Normal
+

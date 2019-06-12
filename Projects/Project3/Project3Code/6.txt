@@ -1,0 +1,11 @@
+Beth Long
+45, Male, Stomach Pain
+1
+N/A
+5ms
+100 Normal
+120/56 Hypotension
+16 Normal
+101.7 Yes
+95.0% Normal
+
