@@ -2,12 +2,12 @@
 CS 313: Data Structures at Queens College
 ===
 
-## Table of Contents
-1. [Project 1: Polynomial Arithmetic](#Project-1:-Polynomial-Arithmetic)
-2. [Project 2: Polynomial Arithmetic with Hash Maps](#Project-2:-Polynomial-Arithmetic-with-Hash-Maps)
-3. [Project 3: Emergency Room](#Project-3:-Emergency-Room)
+# Table of Contents
+1. [Project 1: Polynomial Arithmetic](#Project-1)
+2. [Project 2: Polynomial Arithmetic with Hash Maps](#Project-2)
+3. [Project 3: Emergency Room](#Project-3)
 
-## Project 1: Polynomial Arithmetic
+## Project 1: Polynomial Arithmetic <a name="Project-1"></a>
 #### Project Specs:
 
 You have been hired by a math teacher to help write a program that will read in any two polynomials and will be able
@@ -24,10 +24,10 @@ Product: 2.0 X^7 + 12.0 X^6 + 22.0 X^5 + 16.0 X^4 + 8.0 X^3
 Quotient: 0.5 X^3 + X^2 -0.5 X + 2.0
 Remainder: -8.0 X
 
-## Project 2: Polynomial Arithmetic with Hash Maps
+## Project 2: Polynomial Arithmetic with Hash Maps <a name="Project-2"></a>
 This project implements Project 1, but with Hash Maps instead of custom Linked Lists
 
-## Project 3: Emergency Room
+## Project 3: Emergency Room <a name="Project-3"></a>
 #### Project Specs:
 You have been hired by a Director of Medicine at New York Presbyterian. She want you to implement
 an software that allows the ER nurses and staff to submit information about a patient and the
