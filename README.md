@@ -2,12 +2,10 @@
 CS 313: Data Structures at Queens College
 ===
 
-# IntelliVote
-
 ## Table of Contents
-1. [Project 1: Polynomial Arithmetic](#Project 1: Polynomial Arithmetic)
-2. [Project 2: Polynomial Arithmetic with Hash Maps](#Project 2: Polynomial Arithmetic with Hash Maps)
-3. [Project 3: Emergency Room](#Project 3: Emergency Room)
+1. [Project 1: Polynomial Arithmetic](#Project-1:-Polynomial-Arithmetic)
+2. [Project 2: Polynomial Arithmetic with Hash Maps](#Project-2:-Polynomial-Arithmetic-with-Hash-Maps)
+3. [Project 3: Emergency Room](#Project-3:-Emergency-Room)
 
 ### Project 1: Polynomial Arithmetic
 #### Project Specs:
