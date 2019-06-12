@@ -94,7 +94,6 @@ Cardiologist
 85% Low
 Warfarin, Aspirin, Amlodipine, Diltiazem
 
-#### Reading Vital Signs
 
 
 
